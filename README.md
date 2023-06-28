@@ -11,3 +11,5 @@ Overall, I learned a lot about these crucial AWS services through Stephane's cou
 
 ## Here's the link of resume deployed on S3 Bucket
 http://s3-bucket-resume.s3-website-ap-southeast-2.amazonaws.com
+
+![image](https://github.com/umerhassankhan1/Bytewise-Fellowship-AWS/assets/110376672/7b904f50-be8f-4e1d-9ff9-bb6dd61cc89b)
